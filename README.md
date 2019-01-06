@@ -2,8 +2,7 @@
 Believe it or not, we’ve only just begun exploring what can be accomplished with Markdown. There are many “extended” implementations of Markdown that support formats like tables, definition lists, footnotes, and more. Because they’re non-standard, they’re not essential to learning the basics, as we’ve introduced here.
 
 ## Usage
-
-![image](https://github.com/doannnd/git/blob/feature/hi/iamge1.png)
+<img src="(https://github.com/doannnd/git/blob/feature/hi/iamge1.png" alt="drawing" width="200" height="300"/>
 
 ```
 import foobar
