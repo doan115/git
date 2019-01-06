@@ -6,7 +6,7 @@ If you’d like to know more about these Markdown implementations, you’re welc
 You’re welcome to explore any number
 1. There are many “extended” implementations of Markdown that 
 2. Because they’re non-standard, they’re not `essential` to learning the basics, as we’ve introduced here.
-3. If you’d like to know more about these Markdown `implementations` @doannd
+3. If you’d like to know more about these Markdown `implementations` 
 
 
 
