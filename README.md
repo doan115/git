@@ -3,6 +3,8 @@ Believe it or not, we’ve only just begun exploring what can be accomplished wi
 
 ## Usage
 
+![image](https://github.com/doannnd/git/blob/feature/hi/iamge1.png)
+
 ```
 import foobar
 
