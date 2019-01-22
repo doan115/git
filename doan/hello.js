@@ -1,4 +1,5 @@
-function hello() {
-    this.hello = hello;
-sdafadlfasjfasdj
-}fjaj
+function hello(a) {
+    return a;
+}
+
+console.log('a: ' + hello(5));
