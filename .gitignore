@@ -1,3 +1,4 @@
 # this is .gitignore
 node_modules/
 doan.js
+*.html
