@@ -4,3 +4,4 @@ function hello(a) {
 
 console.log('a: ' + hello(5));
 fasjdklfjasdlk
+console
